@@ -1,0 +1,36 @@
+body{
+    background-color: green;
+}
+
+.container{
+    background-color: white;
+}
+
+.container-fluid{
+    background-color: white;
+}
+
+h3{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
+h6{
+    text-align: center;
+}
+
+#logoloja{
+    width: 100%;
+}
+#imagemlogo{
+
+    margin-bottom: 30px;
+}
+
+#rodape{
+    padding-top: 30px;
+    background-color: greenyellow;
+}
